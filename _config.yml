@@ -3,7 +3,7 @@ title: Fluffy Octo Pancake
 subtitle: by Anime Society, IIT Kanpur
 email: mayantmukul@hotmail.com
 description: "A tactical turn-based strategy game made by the elitist faction of AniSoc"
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://fluffy-octo-pancake.github.io" # the base hostname & protocol for your site
 author: Mayant Mukul
 street_address: 1234 Somewhere Road
